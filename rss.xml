@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Future of Energy]]></title>
+        <description><![CDATA[The Future of Energy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 22 May 2016 13:15:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The future of energy?]]></title>
+            <description><![CDATA[<article><h1>The future of energy?</h1><p>Today, we consume a truly vast amount of energy - with demand continuing to skyrocket at an alarming rate. We know that producing this energy has significant environmental impacts and emitting so much carbon dioxide into the atmosphere could cause catastrophic climate change.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Gz_L6KuqvFI</link>
+            <guid isPermaLink="false">1bd1df4e-8b70-4a35-994d-f2f3e324082b</guid>
+            <pubDate>Sun, 22 May 2016 13:13:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
