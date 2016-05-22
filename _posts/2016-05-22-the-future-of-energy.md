@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-22T14:19:19.967Z'
+datePublished: '2016-05-22T15:08:36.126Z'
 sourcePath: _posts/2016-05-22-the-future-of-energy.md
 isBasedOnUrl: 'https://www.youtube.com/watch?v=Gz_L6KuqvFI'
 keywords:
@@ -18,7 +18,7 @@ author:
   - name: Cambridge University
     url: 'https://www.youtube.com/user/CambridgeUniversity'
     avatar: {}
-dateModified: '2016-05-22T13:21:55.622Z'
+dateModified: '2016-05-22T15:08:35.925Z'
 title: Some great minds are thinking about this
 app_links:
   - url: 'vnd.youtube://www.youtube.com/watch?v=Gz_L6KuqvFI&feature=applinks'
@@ -64,7 +64,7 @@ publisher:
   domain: www.youtube.com
 description: 'Today, we consume a truly vast amount of energy - with demand continuing to skyrocket at an alarming rate. We know that producing this energy has significant environmental impacts and emitting so much carbon dioxide into the atmosphere could cause catastrophic climate change. There is a general consensus among the scientific community that global warming is a real issue and countries are already committed to applying pressure to all consumers to reduce carbon emissions to levels that will allow us to move in to the future with a sustainable strategy.  '
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
