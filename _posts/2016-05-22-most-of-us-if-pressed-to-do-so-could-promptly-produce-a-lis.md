@@ -1,7 +1,7 @@
 ---
 description: 'The main candidates:'
-dateModified: '2016-05-22T15:08:19.877Z'
-datePublished: '2016-05-22T15:08:20.213Z'
+dateModified: '2016-05-22T15:09:16.104Z'
+datePublished: '2016-05-22T15:09:16.418Z'
 title: We all know the options...
 author: []
 sourcePath: _posts/2016-05-22-most-of-us-if-pressed-to-do-so-could-promptly-produce-a-lis.md
