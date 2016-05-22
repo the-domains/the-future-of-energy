@@ -1,11 +1,11 @@
 ---
 description: 'The main candidates:'
-dateModified: '2016-05-22T15:08:03.516Z'
-datePublished: '2016-05-22T15:08:03.850Z'
+dateModified: '2016-05-22T15:08:16.512Z'
+datePublished: '2016-05-22T15:08:16.746Z'
 title: We all know the options...
 author: []
 sourcePath: _posts/2016-05-22-most-of-us-if-pressed-to-do-so-could-promptly-produce-a-lis.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
