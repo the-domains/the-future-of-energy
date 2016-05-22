@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[What will the future look like? ENERGY]]></title>
-        <description><![CDATA[What will the future look like? ENERGY]]></description>
+        <title><![CDATA[What will the future look like? - ENERGY]]></title>
+        <description><![CDATA[What will the future look like? - ENERGY]]></description>
         <link>https://thegrid.ai/the-future-of-energy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 15:15:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 15:28:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-future-of-energy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Some great minds are thinking about this]]></title>
@@ -26,6 +26,13 @@
             <link>http://economia.icaew.com/opinion/february-2015/the-power-of-a-european-energy-union</link>
             <guid isPermaLink="false">a21e556d-9f52-47bc-bcf7-55494213658d</guid>
             <pubDate>Sun, 22 May 2016 15:08:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Solar Power]]></title>
+            <description><![CDATA[<article><h1>Solar Power</h1><p>This is the poster child of renewable energy and there have been major strides over the years to promote this form of energy, from government tax based incentives to encouragements for residential property owners.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bfea15-d22d-4403-8191-fa4908175eeb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-future-of-energy/2fd86f92-97df-4fc0-89aa-921b8d257bda/index.html</link>
+            <guid isPermaLink="false">2fd86f92-97df-4fc0-89aa-921b8d257bda</guid>
+            <pubDate>Sun, 22 May 2016 15:27:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -60,13 +67,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/92d86af9-3937-40b2-85d4-99e0cf4cd50a.jpg">]]></description>
             <link>https://thegrid.ai/the-future-of-energy/8c81c12b-505c-4a77-90b3-b2488ff29dda/index.html</link>
             <guid isPermaLink="false">8c81c12b-505c-4a77-90b3-b2488ff29dda</guid>
-            <pubDate>Sun, 22 May 2016 15:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/54bfea15-d22d-4403-8191-fa4908175eeb.jpg">]]></description>
-            <link>https://thegrid.ai/the-future-of-energy/2fd86f92-97df-4fc0-89aa-921b8d257bda/index.html</link>
-            <guid isPermaLink="false">2fd86f92-97df-4fc0-89aa-921b8d257bda</guid>
             <pubDate>Sun, 22 May 2016 15:07:37 GMT</pubDate>
         </item>
     </channel>
