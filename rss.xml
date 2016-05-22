@@ -4,15 +4,8 @@
         <description><![CDATA[What will the future look like? ENERGY]]></description>
         <link>https://thegrid.ai/the-future-of-energy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 15:08:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 15:08:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-future-of-energy/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[The power of a European energy union]]></title>
-            <description><![CDATA[<article><h1>The power of a European energy union</h1><p>By coordinating research and investment, encouraging conservation, and integrating energy markets, an energy union would help fight climate change, provide Europe with a much needed economic stimulus, and protect the continent from supply shocks, such as those caused by the crises in North Africa and Ukraine.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dca8eda8-8ba4-40b0-8f3d-d9a628af8fa2.jpg"></article>]]></description>
-            <link>http://economia.icaew.com/opinion/february-2015/the-power-of-a-european-energy-union</link>
-            <guid isPermaLink="false">a21e556d-9f52-47bc-bcf7-55494213658d</guid>
-            <pubDate>Sun, 22 May 2016 15:08:33 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/717c4e0f-5eaa-4957-9fb2-7415288b0975.jpg">]]></description>
@@ -75,6 +68,13 @@
             <link>https://www.youtube.com/watch?v=Gz_L6KuqvFI</link>
             <guid isPermaLink="false">1bd1df4e-8b70-4a35-994d-f2f3e324082b</guid>
             <pubDate>Sun, 22 May 2016 14:19:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The power of a European energy union]]></title>
+            <description><![CDATA[<article><h1>The power of a European energy union</h1><p>By coordinating research and investment, encouraging conservation, and integrating energy markets, an energy union would help fight climate change, provide Europe with a much needed economic stimulus, and protect the continent from supply shocks, such as those caused by the crises in North Africa and Ukraine.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dca8eda8-8ba4-40b0-8f3d-d9a628af8fa2.jpg"></article>]]></description>
+            <link>http://economia.icaew.com/opinion/february-2015/the-power-of-a-european-energy-union</link>
+            <guid isPermaLink="false">a21e556d-9f52-47bc-bcf7-55494213658d</guid>
+            <pubDate>Sun, 22 May 2016 14:19:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
