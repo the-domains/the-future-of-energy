@@ -1,18 +1,18 @@
 ---
 description: 'Most of us, if pressed to do so could promptly produce a list of alternative and sustainable energy sources (who said geography class wouldn’t come in handy one day), and it might look something like this..'
-dateModified: '2016-05-22T13:41:45.761Z'
-datePublished: '2016-05-22T13:41:53.562Z'
-title: ''
+dateModified: '2016-05-22T13:55:43.706Z'
+datePublished: '2016-05-22T14:19:11.116Z'
+title: We all know the options...
 author: []
-starred: false
 sourcePath: _posts/2016-05-22-most-of-us-if-pressed-to-do-so-could-promptly-produce-a-lis.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4c2ff2e-653e-4bb0-93fc-51c699b65e5e.jpg" /><p>Most of us, if pressed to do so could promptly produce a list of alternative and sustainable energy sources (who said geography class wouldn’t come in handy one day), and it might look something like this..</p></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dd35cab7bccc3d22aba39d55c4954e0bdbf838a.jpg" /><h1>We all know the options...</h1><p>Most of us, if pressed to do so could promptly produce a list of alternative and sustainable energy sources (who said geography class wouldn’t come in handy one day), and it might look something like this..</p></article>
 
 * **Solar**
 * **Wind**
