@@ -1,11 +1,11 @@
 ---
 description: 'The UK and the world is far from reaching the critical mass of support needed to move us from a position of fossil fuel reliance to one of sustainable energy sources, that can meet future demands and will not damage the planet in the process.  The ICAEW BusinessFutures project has identified the future of energy to be among the most important issues facing business leaders of the future, who between them reside over businesses responsible for 68% of the UK’s energy consumption (including transportation).  This figure moves to 83% globally and highlights the need for businesses to act, even more so than individuals in their homes.'
-dateModified: '2016-05-22T14:35:15.740Z'
-datePublished: '2016-05-22T14:35:15.944Z'
+dateModified: '2016-05-22T14:35:21.685Z'
+datePublished: '2016-05-22T14:35:21.995Z'
 title: "What's all the fuss about?"
 author: []
 sourcePath: _posts/2016-05-22-whats-all-the-fuss-about.md
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
