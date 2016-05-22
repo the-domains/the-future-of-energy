@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-22T14:27:33.289Z'
+datePublished: '2016-05-22T14:35:28.890Z'
 isBasedOnUrl: 'https://vimeo.com/146771870'
 keywords: []
 related: []
@@ -7,7 +7,7 @@ author:
   - name: nigel hastilow
     url: 'http://vimeo.com/user46148288'
     avatar: {}
-dateModified: '2016-05-22T14:27:33.092Z'
+dateModified: '2016-05-22T14:35:28.583Z'
 title: ICAEW - the future in ten minutes
 app_links:
   - url: 'vimeo://app.vimeo.com/videos/146771870'
@@ -43,7 +43,7 @@ publisher:
   domain: vimeo.com
 description: 'The UK is a single player on the world stage, and cannot alone impact change with its own actions.  For example, between them as of 2011, the USA, Russia, China, Australia and India hold 72% of the worlds coal reserves, which could last for more than 100 years with current consumption3, and no profit making entity will give up such significant reserves lightly or without serious measures to compensate for the sacrifice.  Other holdings of fossil fuel reserves broadly follow this pattern of a few countries holding a significant proportion of the global reserve. Unfortunately, conscience and science will never prevail in this arena, only money will talk.'
 sourcePath: _posts/2016-05-22-icaew-the-future-in-ten-minutes.md
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
