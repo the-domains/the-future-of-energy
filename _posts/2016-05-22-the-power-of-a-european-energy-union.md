@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-22T14:19:16.299Z'
+datePublished: '2016-05-22T15:08:33.031Z'
 sourcePath: _posts/2016-05-22-the-power-of-a-european-energy-union.md
 isBasedOnUrl: 'http://economia.icaew.com/opinion/february-2015/the-power-of-a-european-energy-union'
 keywords:
@@ -15,7 +15,7 @@ keywords:
   - norway
 related: []
 author: []
-dateModified: '2016-05-22T13:32:38.049Z'
+dateModified: '2016-05-22T15:08:32.627Z'
 title: The power of a European energy union
 app_links: []
 publisher:
@@ -25,7 +25,7 @@ publisher:
   domain: economia.icaew.com
 description: 'By coordinating research and investment, encouraging conservation, and integrating energy markets, an energy union would help fight climate change, provide Europe with a much needed economic stimulus, and protect the continent from supply shocks, such as those caused by the crises in North Africa and Ukraine.'
 inLanguage: en
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
