@@ -1,11 +1,7 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://economia.icaew.com'
-  name: Icaew
-  favicon: 'http://cdn.icaew.com/economia/img/favicon.ico'
-  domain: economia.icaew.com
+datePublished: '2016-05-22T14:19:16.299Z'
+sourcePath: _posts/2016-05-22-the-power-of-a-european-energy-union.md
+isBasedOnUrl: 'http://economia.icaew.com/opinion/february-2015/the-power-of-a-european-energy-union'
 keywords:
   - grids
   - energy
@@ -17,15 +13,19 @@ keywords:
   - project
   - renewable
   - norway
-description: DUBLIN - One of the top priorities established by European Commission (EC) president Jean-Claude Juncker ahead of his election last summer was the creation of a European energy union. He was right to do so.
-inLanguage: en
-app_links: []
-isBasedOnUrl: 'http://economia.icaew.com/opinion/february-2015/the-power-of-a-european-energy-union'
+related: []
+author: []
+dateModified: '2016-05-22T13:32:38.049Z'
 title: The power of a European energy union
-datePublished: '2016-05-22T13:29:31.176Z'
-dateModified: '2016-05-22T13:29:16.130Z'
+app_links: []
+publisher:
+  url: 'http://economia.icaew.com'
+  name: Icaew
+  favicon: 'http://cdn.icaew.com/economia/img/favicon.ico'
+  domain: economia.icaew.com
+description: 'By coordinating research and investment, encouraging conservation, and integrating energy markets, an energy union would help fight climate change, provide Europe with a much needed economic stimulus, and protect the continent from supply shocks, such as those caused by the crises in North Africa and Ukraine.'
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-05-22-the-power-of-a-european-energy-union.md
 inFeed: true
 hasPage: false
 inNav: false
@@ -33,4 +33,28 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>The power of a European energy union</h1><p>DUBLIN - One of the top priorities established by European Commission (EC) president Jean-Claude Juncker ahead of his election last summer was the creation of a European energy union. He was right to do so.</p><img src="http://economia.icaew.com/opinion/february-2015/~/media/Images/Article%20images/offshore%20energy630.ashx" /></article>
+<article style=""><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/dca8eda8-8ba4-40b0-8f3d-d9a628af8fa2.jpg" /><h1>The power of a European energy union</h1><p>Better together?</p></article>
+
+By coordinating research and investment, encouraging conservation, and integrating energy markets, an energy union would help fight climate change, provide Europe with a much needed economic stimulus, and protect the continent from supply shocks, such as those caused by the crises in North Africa and Ukraine.
+
+Of course, the European Union's (EU) ability to act is dependent on the willingness of its member states; and, though some of the continent's leaders have championed the initiative, others have proved less enthusiastic. A crucial test of their collective resolve will be whether they are willing to support key infrastructure projects that deliver on all three objectives.
+
+One good example of such a project is the North Sea countries' offshore grid initiative, a proposal that would link offshore wind farms to a new regional grid, and allow countries to balance variable power supplies across borders. The idea -- first advanced in a 2009 memorandum of understanding signed by nine EU member states and Norway -- has enormous potential; by 2030, North Sea winds could provide Europe with 10% of its electricity -- carbon-free. But if the project is to go forward, it urgently needs a political mandate.
+
+The integrated grid can be imagined as a large ring, connecting Norway with the United Kingdom, and then linking across the channel to France, Belgium, and Holland, before moving on to Germany and returning to Scandinavia. Its implementation would allow Europe to introduce a free-trade zone for renewable energy, reducing the need for storage and excess capacity to back up variable power supplies. Not only would the grid pay for itself; once in place, it would reduce the cost of new wind farms by some 30%, by providing them with an existing connection to energy markets.
+
+An interconnected energy system would make particular sense for the UK and Germany, which could use the one-hour time difference between them to smooth out the peaks and troughs in demand. Renewable energy production is by nature intermittent, and the sheer number of fluctuating power sources in Germany is already pushing its existing grid to the limit. Interconnection would also reduce the number of new onshore transmission lines the country needs. The German government has produced a policy paper outlining how a more integrated regional market might work.
+
+Last year, the UK matched Germany's investments in clean energy, spending some $15.2bn (£9.8bn) on solar panels and wind farms. But Britain will needs to do a lot more if it is to meet its climate targets. According to a parliamentary report, "the cost of developing such a supergrid could be very high...but it may bring a host of economic benefits -- including tens of thousands of new jobs in the offshore renewable industry." A regional initiative would also allow prime minister David Cameron to accommodate opposition within his party to onshore renewable energy plants.
+
+Each of the individual countries involved in the project would benefit from its construction. Holland and Belgium need a cost-effective way to develop their own offshore resources. Denmark already benefits from an interconnected electricity market; and the lesson it has learned is that it makes sense to integrate even further. Norway would be able to sell its hydropower and secure a backup supply should climate change leave it running dry. Advances in cable technology would allow Ireland to link to France, providing an alternative route to European markets if the UK elects to remain outside the network.
+
+Juncker's €315bn (£231bn) investment plan, proposed in December, includes some €87bn (£64bn) in interconnection projects. It would make sense to combine these into a single initiative, with common standards for technology, planning, and regulations. Doing so would lower the cost of capital on loans from the European Investment Bank and give a boost to European technology companies.
+
+The Baltic states are also planning their own offshore grid. But it is not just northern Europe that could gain from such an approach. Europe's southeastern and Mediterranean countries could also benefit from sharing power.
+
+Most of the necessary legal and regulatory framework is already in place. There is no need for treaty changes or complex new legislation. All that is needed is political direction, so that the EC can establish the necessary governance structures.
+
+The strength of Europe's commitment to a true energy union will be revealed when the European Council meets on March 19\. Among the decisions it will make will be whether to build these regional grids. If the EU and its member states reach an agreement, they could simultaneously boost their economies and improve their energy security. If not, they could end up buying the technology from China or the United States, which will be investing in their own grids in the coming years.
+
+- See more at: http://economia.icaew.com/opinion/february-2015/the-power-of-a-european-energy-union\#sthash.RmmdSjPP.dpuf
