@@ -1,7 +1,7 @@
 ---
-description: 'Most of us, if pressed to do so could promptly produce a list of alternative and sustainable energy sources (who said geography class wouldn’t come in handy one day), and it might look something like this..'
-dateModified: '2016-05-22T13:55:43.706Z'
-datePublished: '2016-05-22T14:19:11.116Z'
+description: 'The main candidates:'
+dateModified: '2016-05-22T14:26:01.928Z'
+datePublished: '2016-05-22T14:26:06.936Z'
 title: We all know the options...
 author: []
 sourcePath: _posts/2016-05-22-most-of-us-if-pressed-to-do-so-could-promptly-produce-a-lis.md
@@ -13,6 +13,8 @@ _type: MediaObject
 
 ---
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dd35cab7bccc3d22aba39d55c4954e0bdbf838a.jpg" /><h1>We all know the options...</h1><p>Most of us, if pressed to do so could promptly produce a list of alternative and sustainable energy sources (who said geography class wouldn’t come in handy one day), and it might look something like this..</p></article>
+
+The main candidates:
 
 * **Solar**
 * **Wind**
