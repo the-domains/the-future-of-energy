@@ -1,8 +1,8 @@
 ---
 description: 'The main candidates:'
-dateModified: '2016-05-22T15:33:56.054Z'
-datePublished: '2016-05-22T15:33:58.146Z'
-title: We all know the options...
+dateModified: '2016-05-22T16:09:06.866Z'
+datePublished: '2016-05-22T16:09:20.526Z'
+title: Solar
 author: []
 sourcePath: _posts/2016-05-22-most-of-us-if-pressed-to-do-so-could-promptly-produce-a-lis.md
 starred: true
@@ -16,15 +16,15 @@ _type: MediaObject
 
 The main candidates:
 
-**Solar**
+### **Solar**
 
-**Wind**
+### **Wind**
 
-**Hydro**
+### **Hydro**
 
-**Geothermal**
+### **Geothermal**
 
-**Biomass**
+### **Biomass**
 
 Some might add nuclear energy (fission) to that list, but strictly, there is a finite amount of uranium on the earth to support indefinite fission reactions and would at some point leave humanity with another transition dilemma.
 
