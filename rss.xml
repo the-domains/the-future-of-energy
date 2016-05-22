@@ -4,7 +4,7 @@
         <description><![CDATA[What will the future look like? - ENERGY]]></description>
         <link>https://thegrid.ai/the-future-of-energy/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 15:28:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 May 2016 15:28:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/the-future-of-energy/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Some great minds are thinking about this]]></title>
@@ -26,6 +26,13 @@
             <link>http://economia.icaew.com/opinion/february-2015/the-power-of-a-european-energy-union</link>
             <guid isPermaLink="false">a21e556d-9f52-47bc-bcf7-55494213658d</guid>
             <pubDate>Sun, 22 May 2016 15:08:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Biomass - careful not to exploit the environment in different ways]]></title>
+            <description><![CDATA[<article><h1>Biomass - careful not to exploit the environment in different ways</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da156274-8871-4cf9-9b85-0010cd9cd80c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/the-future-of-energy/64574537-c421-40d5-b1c6-9ae98b06c5bb/index.html</link>
+            <guid isPermaLink="false">64574537-c421-40d5-b1c6-9ae98b06c5bb</guid>
+            <pubDate>Sun, 22 May 2016 15:28:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Biomass]]></title>
@@ -60,13 +67,6 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fdad2e3d-c66b-4c99-a69f-7afa10542702.jpg">]]></description>
             <link>https://thegrid.ai/the-future-of-energy/5e36dac2-63a8-4a99-941c-293f95d44a2a/index.html</link>
             <guid isPermaLink="false">5e36dac2-63a8-4a99-941c-293f95d44a2a</guid>
-            <pubDate>Sun, 22 May 2016 15:07:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/da156274-8871-4cf9-9b85-0010cd9cd80c.jpg">]]></description>
-            <link>https://thegrid.ai/the-future-of-energy/64574537-c421-40d5-b1c6-9ae98b06c5bb/index.html</link>
-            <guid isPermaLink="false">64574537-c421-40d5-b1c6-9ae98b06c5bb</guid>
             <pubDate>Sun, 22 May 2016 15:07:37 GMT</pubDate>
         </item>
     </channel>
